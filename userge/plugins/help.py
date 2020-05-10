@@ -1,16 +1,15 @@
 # Copyright (C) 2020 by UsergeTeam@Github, < https://github.com/UsergeTeam >.
 #
-# This file is part of < https://github.com/UsergeTeam/Userge > project,
-# and is released under the "GNU v3.0 License Agreement".
-# Please see < https://github.com/uaudith/Userge/blob/master/LICENSE >
-#
-# All rights reserved.
+# # Copyright (C) 2020 by TGTRONTEAM@Github, < https://github.com/TGTRONTEAM >.
+## This file is part of < https://github.com/TGTRONTEAM/TGTRON> project,# and is released under the "GNU v3.0 License Agreement".
+## All rights reserved.
+
 
 
 from userge import userge, Message
 
 
-@userge.on_cmd("help", about="__to know how to use **USERGE** commands__")
+@userge.on_cmd("help", about="__to know how to use **TGTRON** commands__")
 async def helpme(message: Message):
     out, is_mdl_or_key = userge.get_help(message.input_str)
     cmd = message.input_str
@@ -22,7 +21,7 @@ async def helpme(message: Message):
         out_str = f"`{is_mdl_or_key}`\n\n{out}"
 
     elif isinstance(out, list) and is_mdl_or_key:
-        out_str = f"""**--Which module you want ?--**
+        out_str = f"""**--Which module you want TGTRON?--**
 
 **Usage**:
 
@@ -39,7 +38,7 @@ async def helpme(message: Message):
             out_str += f"`{i}`    "
 
     elif isinstance(out, list) and not is_mdl_or_key:
-        out_str = f"""**--Which command you want ?--**
+        out_str = f"""**--Which command you want TGTRON?--**
 
 **Usage**:
 
