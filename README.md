@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/TGTRONTEAM/TGTRON">
-        <img src="TGTRON/resources/PicsArt_05-10-11.31.40.jpg" alt="TGTRON">
+        <img src="resources/PicsArt_05-10-11.31.40.jpg" alt="TGTRON">
     </a>
     <br>
     <b>Pluggable Telegram UserBot With Extra Features</b>
