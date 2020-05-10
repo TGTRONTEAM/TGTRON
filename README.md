@@ -111,7 +111,7 @@ async def testing(message: Message):
 
 ### Support & Discussions 👥
 
-> Head over to the [Discussion Group](https://t.me/slbotsbugs) and [Update Channel](https://t.me/TGTRON)
+> Head over to the [Discussion Group](https://t.me/TGTRONS) and [Update Channel](https://t.me/TGTRON)
 
 ### Project Credits 💆‍
 )
