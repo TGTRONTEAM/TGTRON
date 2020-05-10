@@ -111,18 +111,16 @@ async def testing(message: Message):
 
 ### Support & Discussions 👥
 
-> Head over to the [Discussion Group](https://t.me/slbotsbugs) and [Update Channel](https://t.me/theUserge)
+> Head over to the [Discussion Group](https://t.me/slbotsbugs) and [Update Channel](https://t.me/TGTRON)
 
-### Project Credits 💆‍♂️
+### Project Credits 💆‍
+)
+* [@MARIODEVS](https://t.me/MARIODEVS)
+* [@Jr_Genesis](https://t.me/Jr_Jenesis)
+* [@Creatorofworld](https://t.me/Creatorofworld)
 
-* [Specially to these projects](https://github.com/UsergeTeam/Userge#inspiration-) 🥰
-* [@uaudIth](https://t.me/uaudIth)
-* [@K_E_N_W_A_Y](https://t.me/K_E_N_W_A_Y)
-* [@nawwasl](https://t.me/nawwasl)
-* [@THARUKA](https://t.me/TharukaN97)
-* [@gotstc](https://t.me/gotstc)
 
 ### Copyright & License 👮
 
-* Copyright (C) 2020 by [UsergeTeam](https://github.com/UsergeTeam) ❤️️
-* Licensed under the terms of the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/UsergeTeam/Userge/blob/master/LICENSE)
+* Copyright (C) 2020 by [TGTRONTEAM](https://github.com/TGTRONTEAM) ❤️️
+* Licensed under the terms of the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/TGTRONTEAM/TGTRON/blob/master/LICENSE)
