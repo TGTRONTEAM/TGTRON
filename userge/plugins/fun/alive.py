@@ -1,10 +1,7 @@
-# Copyright (C) 2020 by UsergeTeam@Github, < https://github.com/UsergeTeam >.
-#
-# This file is part of < https://github.com/UsergeTeam/Userge > project,
-# and is released under the "GNU v3.0 License Agreement".
-# Please see < https://github.com/uaudith/Userge/blob/master/LICENSE >
-#
-# All rights reserved.
+# Copyright (C) 2020 by TGTRON@Github,
+< https://github.com/TGTRONTEAM>.
+    ## This file is part of < https://github.com/TGTRONTEAM/TGTRON > project
+    # and is released under the "GNU v3.0 License Agreement"..
 
 
 from pyrogram.errors.exceptions import FileIdInvalid, FileReferenceEmpty
@@ -31,16 +28,16 @@ async def alive(message: Message):
         await sendit(LOGO_STICKER_ID, message)
 
     output = f"""
-**USERGE is Up and Running**
+**TGTRON is Up and Running!**
 
-       __Durable as a Serge__
+       __FAST AND SECURE__
 
 • **python version** : `{versions.__python_version__}`
 • **pyrogram version** : `{versions.__pyro_version__}`
-• **userge version** : `{versions.__version__}`
+• **TGTRON version** : `{versions.__version__}`
 • **license** : {versions.__license__}
-• **copyright** : {versions.__copyright__}
-• **repo** : [Userge]({Config.UPSTREAM_REPO})
+• **copyright** : {© TGTRON@Github.}
+• **repo** : [TGTRON]({Config.UPSTREAM_REPO})
 """
 
     await userge.send_message(message.chat.id, output, disable_web_page_preview=True)
@@ -48,7 +45,7 @@ async def alive(message: Message):
 
 async def refresh_id():
     global LOGO_STICKER_ID, LOGO_STICKER_REF
-    sticker = (await userge.get_messages('theUserge', 8)).sticker
+    sticker = (await userge.get_messages('@TGTRON', 8)).sticker
     LOGO_STICKER_ID = sticker.file_id
     LOGO_STICKER_REF = sticker.file_ref
 
