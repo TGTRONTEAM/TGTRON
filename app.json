@@ -1,13 +1,13 @@
 {
-    "name": "Userge",
-    "description": "telegram pluggable userbot",
+    "name": "TGTRON",
+    "description": "telegram pluggable userbot with features",
     "keywords": [
         "userge",
         "telegram",
-        "pluggable",
+        "pluggable and secure",
         "userbot"
     ],
-    "repository": "https://github.com/uaudith/Userge",
+    "repository": "https://github.com/TGTRONTEAM/TGTRON",
     "env": {
         "APP_ID": {
             "description": "Get this value from https://my.telegram.org"
